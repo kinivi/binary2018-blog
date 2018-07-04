@@ -638,7 +638,7 @@ body {
 
 /* !!! Media Queries !!! */
 
-@media only screen and (min-width: 720px) {
+@media only screen and (min-width: 780px) {
     .wrapper {
         grid-gap: 20px;
         grid-template-columns: 200px auto 300px;
@@ -662,7 +662,7 @@ body {
     }
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 780px) {
     .main-nav {
         flex-direction: column;
     }
